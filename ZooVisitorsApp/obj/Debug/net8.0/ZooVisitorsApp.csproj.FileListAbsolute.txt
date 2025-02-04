@@ -1,0 +1,15 @@
+/workspaces/Module3Challenge/ZooVisitorsApp/bin/Debug/net8.0/ZooVisitorsApp
+/workspaces/Module3Challenge/ZooVisitorsApp/bin/Debug/net8.0/ZooVisitorsApp.deps.json
+/workspaces/Module3Challenge/ZooVisitorsApp/bin/Debug/net8.0/ZooVisitorsApp.runtimeconfig.json
+/workspaces/Module3Challenge/ZooVisitorsApp/bin/Debug/net8.0/ZooVisitorsApp.dll
+/workspaces/Module3Challenge/ZooVisitorsApp/bin/Debug/net8.0/ZooVisitorsApp.pdb
+/workspaces/Module3Challenge/ZooVisitorsApp/obj/Debug/net8.0/ZooVisitorsApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Module3Challenge/ZooVisitorsApp/obj/Debug/net8.0/ZooVisitorsApp.AssemblyInfoInputs.cache
+/workspaces/Module3Challenge/ZooVisitorsApp/obj/Debug/net8.0/ZooVisitorsApp.AssemblyInfo.cs
+/workspaces/Module3Challenge/ZooVisitorsApp/obj/Debug/net8.0/ZooVisitorsApp.csproj.CoreCompileInputs.cache
+/workspaces/Module3Challenge/ZooVisitorsApp/obj/Debug/net8.0/ZooVisitorsApp.sourcelink.json
+/workspaces/Module3Challenge/ZooVisitorsApp/obj/Debug/net8.0/ZooVisitorsApp.dll
+/workspaces/Module3Challenge/ZooVisitorsApp/obj/Debug/net8.0/refint/ZooVisitorsApp.dll
+/workspaces/Module3Challenge/ZooVisitorsApp/obj/Debug/net8.0/ZooVisitorsApp.pdb
+/workspaces/Module3Challenge/ZooVisitorsApp/obj/Debug/net8.0/ZooVisitorsApp.genruntimeconfig.cache
+/workspaces/Module3Challenge/ZooVisitorsApp/obj/Debug/net8.0/ref/ZooVisitorsApp.dll
